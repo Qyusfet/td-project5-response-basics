@@ -16,15 +16,22 @@ This is a solution to the [Responsive Web Design Project](https://skills.instinc
 ## Overview
 The project shows how to use **Media Query** to make the webpage responsive to different viewport(Display Screen).
 
-### Screenshot
+### **Screenshot**
 
-![](.assets/screenshot/desktopview-1024px-plus.jpg)
+<table>
+    <tr>
+        <td>Desktop View</td>
+        <td>iPad View</td>
+        <td>MiniPad View</td>
+        <td>Mobile View</td>
+    </tr>
+    <tr>
+        <td><img scr="assets\screenshot\desktopview-1024px-plus.jpg" width=202 height=480></td>
+        <td><img scr="assets\screenshot\iPadView-768px-plus.jpg" width=202 height=480></td>
+        <td><img scr="assets\screenshot\MiniPad View-501px-767px.jpg.jpg" width=202 height=480></td>
+        <td><img scr="assets\screenshot\MobileView-500px-and-Below.jpg" width=202 height=480></td>
+    </tr>
 
-![](.assets/screenshot/iPadView-768px-plus.jpg)
-
-![](.assets/screenshot/MiniPad%20View-501px-767px.jpg)
-
-![](./assets/screenshot/MobileView-500px-and-Below.jpg)
 
 
 ## My process
