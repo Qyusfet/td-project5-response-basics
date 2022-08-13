@@ -26,10 +26,10 @@ The project shows how to use **Media Query** to make the webpage responsive to d
         <td>Mobile View</td>
     </tr>
     <tr>
-        <td><img scr="assets\screenshot\desktopview-1024px-plus.jpg" width=202 height=480></td>
-        <td><img scr="assets\screenshot\iPadView-768px-plus.jpg" width=202 height=480></td>
-        <td><img scr="assets\screenshot\MiniPad View-501px-767px.jpg.jpg" width=202 height=480></td>
-        <td><img scr="assets\screenshot\MobileView-500px-and-Below.jpg" width=202 height=480></td>
+        <td><img scr="assets/screenshot/desktopview-1024px-plus.jpg" alt="desktop view" width=202 height=480></td>
+        <td><img scr="assets/screenshot/iPadView-768px-plus.jpg" alt="iPad view" width=202 height=480></td>
+        <td><img scr="assets/screenshot/MiniPad View-501px-767px.jpg.jpg" alt="Minipad view" width=202 height=480></td>
+        <td><img scr="assets/screenshot/MobileView-500px-and-Below.jpg" alt="Mobile view" width=202 height=480></td>
     </tr>
 
 
